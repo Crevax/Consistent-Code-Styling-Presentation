@@ -1,0 +1,19 @@
+.north h2 .north-west-h2 {
+  margin-bottom: 0;
+}
+
+.north p,
+.north-west p,
+.north a,
+.north-west a {
+  font-size: 50%;
+}
+
+.sidebar h3,
+.sidebar li {
+  font-size: 75%;
+}
+
+.north p .north-west p {
+  margin: 10px 0;
+}
